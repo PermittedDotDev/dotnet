@@ -1,6 +1,6 @@
 # Permitted
 
-Official Permitted SDK for .NET.
+Official Permitted SDK for .NET (dotnet)
 
 ## Installation
 
